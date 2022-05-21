@@ -1,4 +1,5 @@
-# discord-bos-v13
+# Discord.JS V13 Boş altyapı
+
 Discord V13 botlar içindir.
 
 
